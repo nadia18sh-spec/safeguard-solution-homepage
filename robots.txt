@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nadia18sh-spec.github.io/safeguard-solution-homepage/sitemap.xml
